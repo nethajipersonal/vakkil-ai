@@ -1,0 +1,116 @@
+{
+  "common": {
+    "appName": "VaakiL AI",
+    "appNameNative": "VaakiL AI",
+    "tagline": "Advocate's Daily OS",
+    "signOut": "Sign Out",
+    "done": "Done"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "documents": "Documents",
+    "cases": "Cases",
+    "clients": "Clients",
+    "research": "Legal Research",
+    "whatsapp": "WhatsApp Bot",
+    "filing": "e-Filing Kit",
+    "billing": "Billing",
+    "settings": "Settings",
+    "adminPanel": "Admin Panel"
+  },
+  "dashboardLayout": {
+    "brandSubtitle": "VaakiL AI",
+    "today": "Today",
+    "noCourtToday": "No court today",
+    "profile": "Profile",
+    "changePassword": "Change Password",
+    "appearance": "Appearance",
+    "signOut": "Sign Out"
+  },
+  "dashboardPage": {
+    "greetingMorning": "Good morning",
+    "greetingAfternoon": "Good afternoon",
+    "greetingEvening": "Good evening",
+    "subtitleSuffix": "Your legal day today",
+    "statDocuments": "Documents",
+    "statActiveCases": "Active Cases",
+    "statHearingsToday": "Hearings Today",
+    "statBilling": "Billing",
+    "quickActions": "Quick Actions",
+    "actionNewDocument": "New Document",
+    "actionAddCase": "Add Case",
+    "actionAddClient": "Add Client",
+    "actionResearch": "Research",
+    "actionFiling": "e-Filing Kit",
+    "actionWhatsapp": "WhatsApp Bot",
+    "upcomingHearings": "Upcoming Hearings",
+    "noUpcomingHearings": "No upcoming hearings",
+    "recentDocuments": "Recent Documents",
+    "noDocumentsYet": "No documents yet",
+    "aiInsights": "AI Insights"
+  },
+  "header": {
+    "today": "Today",
+    "noCourtToday": "No court today",
+    "profile": "Profile",
+    "changePassword": "Change Password",
+    "appearance": "Appearance",
+    "settings": "Settings",
+    "signOut": "Sign Out",
+    "defaultTitle": "VaakiL AI"
+  },
+  "settingsPage": {
+    "subtitle": "Your profile and preferences"
+  },
+  "clientsPage": {
+    "subtitle": "Clients and fees",
+    "statTotalBilled": "Total Billed",
+    "statReceived": "Received",
+    "statPending": "Pending",
+    "noClients": "No clients yet",
+    "noFeeEntries": "No fee entries yet"
+  },
+  "casesPage": {
+    "subtitle": "Your cases",
+    "noCases": "No cases yet"
+  },
+  "caseDetailPage": {
+    "noHearings": "No hearing dates recorded"
+  },
+  "documentsPage": {
+    "subtitle": "Your legal documents",
+    "noDocuments": "No documents yet"
+  },
+  "newDocumentPage": {
+    "subtitle": "Create a new document"
+  },
+  "billingPage": {
+    "subtitle": "Billing plans"
+  },
+  "adminPage": {
+    "subtitle": "VaakiL AI administration"
+  },
+  "onboardingPage": {
+    "subtitle": "Register your advocate details"
+  },
+  "themeModal": {
+    "title": "Appearance settings",
+    "colorMode": "Color Mode",
+    "modeLight": "Light",
+    "modeDark": "Dark",
+    "modeSystem": "System",
+    "accentColor": "Accent Color",
+    "fontFamily": "Font Family",
+    "footerNote": "Changes are saved instantly"
+  },
+  "changePasswordModal": {
+    "title": "Change Password",
+    "successSubtitle": "Password updated"
+  },
+  "authPages": {
+    "tagline": "Advocate's Daily OS",
+    "portalTagline": "Client Portal",
+    "registerSubtitle": "Register your advocate profile",
+    "onboardingSubtitle": "Register your advocate details"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "common": {
+    "appName": "VaakiL AI",
+    "appNameNative": "வாக்கீல் AI",
+    "tagline": "வழக்கறிஞரின் தினசரி OS",
+    "signOut": "வெளியேறு",
+    "done": "முடிந்தது"
+  },
+  "nav": {
+    "dashboard": "டாஷ்போர்டு",
+    "documents": "ஆவணங்கள்",
+    "cases": "வழக்குகள்",
+    "clients": "வாடிக்கையாளர்கள்",
+    "research": "சட்ட ஆராய்ச்சி",
+    "whatsapp": "வாட்ஸ்அப்",
+    "filing": "இ-தாக்கல்",
+    "billing": "கட்டணம்",
+    "settings": "அமைப்புகள்",
+    "adminPanel": "நிர்வாகம்"
+  },
+  "dashboardLayout": {
+    "brandSubtitle": "வாக்கீல் AI",
+    "today": "இன்றைய நாள்",
+    "noCourtToday": "இன்று கோர்ட் இல்லை",
+    "profile": "சுயவிவரம்",
+    "changePassword": "கடவுச்சொல்",
+    "appearance": "தோற்றம்",
+    "signOut": "வெளியேறு"
+  },
+  "dashboardPage": {
+    "greetingMorning": "காலை வணக்கம்",
+    "greetingAfternoon": "மதிய வணக்கம்",
+    "greetingEvening": "மாலை வணக்கம்",
+    "subtitleSuffix": "உங்கள் இன்றைய சட்ட நாட்கள்",
+    "statDocuments": "ஆவணங்கள்",
+    "statActiveCases": "வழக்குகள்",
+    "statHearingsToday": "இன்று நீதிமன்றம்",
+    "statBilling": "வருவாய்",
+    "quickActions": "விரைவு செயல்கள்",
+    "actionNewDocument": "புதிய ஆவணம்",
+    "actionAddCase": "வழக்கு சேர்",
+    "actionAddClient": "வாடிக்கையாளர்",
+    "actionResearch": "ஆராய்ச்சி",
+    "actionFiling": "இ-தாக்கல்",
+    "actionWhatsapp": "வாட்ஸ்அப்",
+    "upcomingHearings": "வரவிருக்கும் நீதிமன்றங்கள்",
+    "noUpcomingHearings": "வரவிருக்கும் நீதிமன்றம் இல்லை",
+    "recentDocuments": "சமீபத்திய ஆவணங்கள்",
+    "noDocumentsYet": "ஆவணங்கள் இல்லை",
+    "aiInsights": "AI பரிந்துரைகள்"
+  },
+  "header": {
+    "today": "இன்றைய நாள்",
+    "noCourtToday": "இன்று கோர்ட் இல்லை",
+    "profile": "சுயவிவரம்",
+    "changePassword": "கடவுச்சொல்",
+    "appearance": "தோற்றம்",
+    "settings": "அமைப்புகள்",
+    "signOut": "வெளியேறு",
+    "defaultTitle": "வாக்கீல் AI"
+  },
+  "settingsPage": {
+    "subtitle": "உங்கள் சுயவிவரம் மற்றும் விருப்பங்கள்"
+  },
+  "clientsPage": {
+    "subtitle": "வாடிக்கையாளர்கள் மற்றும் கட்டணங்கள்",
+    "statTotalBilled": "மொத்த கட்டணம்",
+    "statReceived": "பெற்றது",
+    "statPending": "நிலுவை",
+    "noClients": "வாடிக்கையாளர்கள் இல்லை",
+    "noFeeEntries": "கட்டண உள்ளீடுகள் இல்லை"
+  },
+  "casesPage": {
+    "subtitle": "உங்கள் வழக்குகள்",
+    "noCases": "வழக்குகள் இல்லை"
+  },
+  "caseDetailPage": {
+    "noHearings": "விசாரணை தேதிகள் இல்லை"
+  },
+  "documentsPage": {
+    "subtitle": "உங்கள் சட்ட ஆவணங்கள்",
+    "noDocuments": "இன்னும் ஆவணங்கள் இல்லை"
+  },
+  "newDocumentPage": {
+    "subtitle": "புதிய ஆவணம் உருவாக்கு"
+  },
+  "billingPage": {
+    "subtitle": "கட்டண திட்டங்கள்"
+  },
+  "adminPage": {
+    "subtitle": "VaakiL AI நிர்வாகம்"
+  },
+  "onboardingPage": {
+    "subtitle": "உங்கள் சட்டவாளர் விவரங்களை பதிவு செய்யுங்கள்"
+  },
+  "themeModal": {
+    "title": "தோற்றம் அமைப்புகள்",
+    "colorMode": "நிற பயன்முறை",
+    "modeLight": "வெளிர்",
+    "modeDark": "இருண்ட",
+    "modeSystem": "தானியங்கி",
+    "accentColor": "உச்ச நிறம்",
+    "fontFamily": "எழுத்துரு",
+    "footerNote": "மாற்றங்கள் உடனடியாக சேமிக்கப்படும்"
+  },
+  "changePasswordModal": {
+    "title": "கடவுச்சொல் மாற்றம்",
+    "successSubtitle": "கடவுச்சொல் புதுப்பிக்கப்பட்டது"
+  },
+  "authPages": {
+    "tagline": "வழக்கறிஞரின் தினசரி OS",
+    "portalTagline": "வாடிக்கையாளர் போர்டல்",
+    "registerSubtitle": "உங்கள் வழக்கறிஞர் சுயவிவரத்தை பதிவு செய்யுங்கள்",
+    "onboardingSubtitle": "உங்கள் சட்டவாளர் விவரங்களை பதிவு செய்யுங்கள்"
+  }
+}

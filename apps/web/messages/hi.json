@@ -1,0 +1,116 @@
+{
+  "common": {
+    "appName": "VaakiL AI",
+    "appNameNative": "वाक्कील AI",
+    "tagline": "अधिवक्ता की दैनिक OS",
+    "signOut": "साइन आउट",
+    "done": "हो गया"
+  },
+  "nav": {
+    "dashboard": "डैशबोर्ड",
+    "documents": "दस्तावेज़",
+    "cases": "मामले",
+    "clients": "ग्राहक",
+    "research": "कानूनी शोध",
+    "whatsapp": "व्हाट्सऐप बॉट",
+    "filing": "ई-फाइलिंग किट",
+    "billing": "बिलिंग",
+    "settings": "सेटिंग्स",
+    "adminPanel": "एडमिन पैनल"
+  },
+  "dashboardLayout": {
+    "brandSubtitle": "वाक्कील AI",
+    "today": "आज",
+    "noCourtToday": "आज कोई अदालत नहीं",
+    "profile": "प्रोफ़ाइल",
+    "changePassword": "पासवर्ड",
+    "appearance": "रूप",
+    "signOut": "साइन आउट"
+  },
+  "dashboardPage": {
+    "greetingMorning": "सुप्रभात",
+    "greetingAfternoon": "शुभ दोपहर",
+    "greetingEvening": "शुभ संध्या",
+    "subtitleSuffix": "आपका आज का कानूनी दिन",
+    "statDocuments": "दस्तावेज़",
+    "statActiveCases": "मामले",
+    "statHearingsToday": "आज की सुनवाई",
+    "statBilling": "राजस्व",
+    "quickActions": "त्वरित कार्य",
+    "actionNewDocument": "नया दस्तावेज़",
+    "actionAddCase": "मामला जोड़ें",
+    "actionAddClient": "ग्राहक जोड़ें",
+    "actionResearch": "शोध",
+    "actionFiling": "ई-फाइलिंग किट",
+    "actionWhatsapp": "व्हाट्सऐप बॉट",
+    "upcomingHearings": "आगामी सुनवाइयां",
+    "noUpcomingHearings": "कोई आगामी सुनवाई नहीं",
+    "recentDocuments": "हाल के दस्तावेज़",
+    "noDocumentsYet": "कोई दस्तावेज़ नहीं",
+    "aiInsights": "AI सुझाव"
+  },
+  "header": {
+    "today": "आज",
+    "noCourtToday": "आज कोई अदालत नहीं",
+    "profile": "प्रोफ़ाइल",
+    "changePassword": "पासवर्ड",
+    "appearance": "रूप",
+    "settings": "सेटिंग्स",
+    "signOut": "साइन आउट",
+    "defaultTitle": "वाक्कील AI"
+  },
+  "settingsPage": {
+    "subtitle": "आपकी प्रोफ़ाइल और प्राथमिकताएं"
+  },
+  "clientsPage": {
+    "subtitle": "ग्राहक और शुल्क",
+    "statTotalBilled": "कुल बिल",
+    "statReceived": "प्राप्त",
+    "statPending": "लंबित",
+    "noClients": "कोई ग्राहक नहीं",
+    "noFeeEntries": "कोई शुल्क प्रविष्टि नहीं"
+  },
+  "casesPage": {
+    "subtitle": "आपके मामले",
+    "noCases": "कोई मामला नहीं"
+  },
+  "caseDetailPage": {
+    "noHearings": "कोई सुनवाई तिथि दर्ज नहीं"
+  },
+  "documentsPage": {
+    "subtitle": "आपके कानूनी दस्तावेज़",
+    "noDocuments": "अभी तक कोई दस्तावेज़ नहीं"
+  },
+  "newDocumentPage": {
+    "subtitle": "नया दस्तावेज़ बनाएं"
+  },
+  "billingPage": {
+    "subtitle": "बिलिंग योजनाएं"
+  },
+  "adminPage": {
+    "subtitle": "VaakiL AI प्रशासन"
+  },
+  "onboardingPage": {
+    "subtitle": "अपने अधिवक्ता विवरण दर्ज करें"
+  },
+  "themeModal": {
+    "title": "रूप सेटिंग्स",
+    "colorMode": "रंग मोड",
+    "modeLight": "हल्का",
+    "modeDark": "गहरा",
+    "modeSystem": "सिस्टम",
+    "accentColor": "एक्सेंट रंग",
+    "fontFamily": "फ़ॉन्ट परिवार",
+    "footerNote": "परिवर्तन तुरंत सहेजे जाते हैं"
+  },
+  "changePasswordModal": {
+    "title": "पासवर्ड बदलें",
+    "successSubtitle": "पासवर्ड अपडेट किया गया"
+  },
+  "authPages": {
+    "tagline": "अधिवक्ता की दैनिक OS",
+    "portalTagline": "ग्राहक पोर्टल",
+    "registerSubtitle": "अपनी अधिवक्ता प्रोफ़ाइल पंजीकृत करें",
+    "onboardingSubtitle": "अपने अधिवक्ता विवरण दर्ज करें"
+  }
+}

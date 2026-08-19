@@ -1,0 +1,116 @@
+{
+  "common": {
+    "appName": "VaakiL AI",
+    "appNameNative": "వాక్కీల్ AI",
+    "tagline": "న్యాయవాది రోజువారీ OS",
+    "signOut": "లాగ్ అవుట్",
+    "done": "పూర్తయింది"
+  },
+  "nav": {
+    "dashboard": "డాష్‌బోర్డ్",
+    "documents": "పత్రాలు",
+    "cases": "కేసులు",
+    "clients": "క్లయింట్లు",
+    "research": "న్యాయ పరిశోధన",
+    "whatsapp": "వాట్సాప్ బాట్",
+    "filing": "ఇ-ఫైలింగ్ కిట్",
+    "billing": "బిల్లింగ్",
+    "settings": "సెట్టింగ్‌లు",
+    "adminPanel": "అడ్మిన్ ప్యానెల్"
+  },
+  "dashboardLayout": {
+    "brandSubtitle": "వాక్కీల్ AI",
+    "today": "ఈ రోజు",
+    "noCourtToday": "ఈ రోజు కోర్టు లేదు",
+    "profile": "ప్రొఫైల్",
+    "changePassword": "పాస్‌వర్డ్",
+    "appearance": "రూపాన్ని",
+    "signOut": "లాగ్ అవుట్"
+  },
+  "dashboardPage": {
+    "greetingMorning": "శుభోదయం",
+    "greetingAfternoon": "శుభ మధ్యాహ్నం",
+    "greetingEvening": "శుభ సాయంత్రం",
+    "subtitleSuffix": "మీ నేటి న్యాయపరమైన రోజు",
+    "statDocuments": "పత్రాలు",
+    "statActiveCases": "కేసులు",
+    "statHearingsToday": "ఈ రోజు విచారణలు",
+    "statBilling": "రాబడి",
+    "quickActions": "త్వరిత చర్యలు",
+    "actionNewDocument": "కొత్త పత్రం",
+    "actionAddCase": "కేసు జోడించు",
+    "actionAddClient": "క్లయింట్ జోడించు",
+    "actionResearch": "పరిశోధన",
+    "actionFiling": "ఇ-ఫైలింగ్ కిట్",
+    "actionWhatsapp": "వాట్సాప్ బాట్",
+    "upcomingHearings": "రాబోయే విచారణలు",
+    "noUpcomingHearings": "రాబోయే విచారణలు లేవు",
+    "recentDocuments": "ఇటీవలి పత్రాలు",
+    "noDocumentsYet": "పత్రాలు లేవు",
+    "aiInsights": "AI సూచనలు"
+  },
+  "header": {
+    "today": "ఈ రోజు",
+    "noCourtToday": "ఈ రోజు కోర్టు లేదు",
+    "profile": "ప్రొఫైల్",
+    "changePassword": "పాస్‌వర్డ్",
+    "appearance": "రూపాన్ని",
+    "settings": "సెట్టింగ్‌లు",
+    "signOut": "లాగ్ అవుట్",
+    "defaultTitle": "వాక్కీల్ AI"
+  },
+  "settingsPage": {
+    "subtitle": "మీ ప్రొఫైల్ మరియు ప్రాధాన్యతలు"
+  },
+  "clientsPage": {
+    "subtitle": "క్లయింట్లు మరియు రుసుములు",
+    "statTotalBilled": "మొత్తం బిల్లు",
+    "statReceived": "అందింది",
+    "statPending": "పెండింగ్",
+    "noClients": "క్లయింట్లు లేరు",
+    "noFeeEntries": "రుసుము నమోదులు లేవు"
+  },
+  "casesPage": {
+    "subtitle": "మీ కేసులు",
+    "noCases": "కేసులు లేవు"
+  },
+  "caseDetailPage": {
+    "noHearings": "విచారణ తేదీలు నమోదు కాలేదు"
+  },
+  "documentsPage": {
+    "subtitle": "మీ న్యాయ పత్రాలు",
+    "noDocuments": "ఇంకా పత్రాలు లేవు"
+  },
+  "newDocumentPage": {
+    "subtitle": "కొత్త పత్రాన్ని సృష్టించండి"
+  },
+  "billingPage": {
+    "subtitle": "బిల్లింగ్ ప్రణాళికలు"
+  },
+  "adminPage": {
+    "subtitle": "VaakiL AI నిర్వహణ"
+  },
+  "onboardingPage": {
+    "subtitle": "మీ న్యాయవాది వివరాలను నమోదు చేయండి"
+  },
+  "themeModal": {
+    "title": "ప్రదర్శన సెట్టింగ్‌లు",
+    "colorMode": "రంగు మోడ్",
+    "modeLight": "లైట్",
+    "modeDark": "డార్క్",
+    "modeSystem": "సిస్టమ్",
+    "accentColor": "ఉచ్చారణ రంగు",
+    "fontFamily": "ఫాంట్ ఫ్యామిలీ",
+    "footerNote": "మార్పులు తక్షణమే సేవ్ చేయబడతాయి"
+  },
+  "changePasswordModal": {
+    "title": "పాస్‌వర్డ్ మార్పు",
+    "successSubtitle": "పాస్‌వర్డ్ నవీకరించబడింది"
+  },
+  "authPages": {
+    "tagline": "న్యాయవాది రోజువారీ OS",
+    "portalTagline": "క్లయింట్ పోర్టల్",
+    "registerSubtitle": "మీ న్యాయవాది ప్రొఫైల్‌ను నమోదు చేయండి",
+    "onboardingSubtitle": "మీ న్యాయవాది వివరాలను నమోదు చేయండి"
+  }
+}
